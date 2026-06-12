@@ -2,7 +2,8 @@
 
 Reference implementation and reproducibility code for the paper:
 
-
+> **Grounding Symbolic Failure-Mode Knowledge with Physics:
+> A Landau-Ginzburg Layer for Hybrid FMEA-Aware Fault Detection**
 > Diogo Rocha, Rui Pinto, Gil Goncalves. *Work in progress, 2026.*
 
 The method couples a physics-based **Landau-Ginzburg (LG) order parameter**,
